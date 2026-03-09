@@ -91,7 +91,7 @@ Provides a consolidated overview of the entire portfolio including:
 ## 🔗 Power BI Dashboard
 
 👉 **View the Interactive Dashboard:**  
-[Open Power BI Report]([POWER_BI_SERVICE_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZWFlZGIxMzItYTJiYy00NWY2LTljZTAtM2E0NzBiNTc5YWVhIiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
+[Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZWFlZGIxMzItYTJiYy00NWY2LTljZTAtM2E0NzBiNTc5YWVhIiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 
 ---
 
